@@ -210,6 +210,7 @@
                     <navigationItem key="navigationItem" id="ly1-Bt-Z5v"/>
                     <connections>
                         <outlet property="adviceLabel" destination="9IV-CT-mxw" id="3IZ-8Z-elN"/>
+                        <outlet property="bgColor" destination="r83-N3-Ash" id="HnF-Hx-t8w"/>
                         <outlet property="bmiLabel" destination="VU9-2W-Sd5" id="sHq-Rp-qfv"/>
                     </connections>
                 </viewController>
